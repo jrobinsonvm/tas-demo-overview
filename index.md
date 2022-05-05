@@ -7,8 +7,10 @@
 1. [Build and Deploy .NET Framework App (Windows) to TAS from Visual Studio](#example)
    - Demonstrate how TAS uses Cloud Native Buildpacks to Build Apps   
    - Deploy App to TAS using TAS's Visual Studio Plugin
-   - Bind App to an Azure MySQL Database using TAS's Open Service Broker API 
 2. [Build and Deploy .NET Framework App (Windows) to TAS from Azure DevOps Pipelines ](#example2)
+   - Demonstrate how TAS can integrate with Azure DevOps Build & Release Pipelines   
+   - Deploy App to TAS using TAS/Cloud Foundry's Azure DevOps Plugin
+   - Bind App to an Azure MySQL Database using TAS's Open Service Broker API 
 
 3. [Third Example](#third-example)
 
