@@ -5,17 +5,21 @@
 # Demo Agenda 
 ### Developer Experience 
 1. [Build and Deploy .NET Framework App (Windows) to TAS from Visual Studio](#example)
-   - Demonstrate how TAS uses Cloud Native Buildpacks to Build Apps   
    - Deploy App to TAS using TAS's Visual Studio Plugin
+   - Walk through what just happened
+   - Demonstrate how TAS uses Cloud Native Buildpacks to Build Apps   
 2. [Build and Deploy .NET Framework App (Windows) to TAS from Azure DevOps Pipelines ](#example2)
    - Demonstrate how TAS can integrate with Azure DevOps Build & Release Pipelines   
    - Deploy App to TAS using TAS/Cloud Foundry's Azure DevOps Plugin
    - Bind App to an Azure MySQL Database using TAS's Open Service Broker API 
+3. [Walk through Apps Manager UI ](#example2)
+   - Auto Scaling Apps with Apps Manager    
+   - Review Application logs and metrics using Apps Manager 
 
-3. [Third Example](#third-example)
 
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
+### Operator Experience 
+4. [Day 2 Operations with Tanzu Application Service ](#example2)
+   - Walk through automated patching, upgrades, and overall maintenance using Ops Manager 
 
 <br/>
 <br/>
