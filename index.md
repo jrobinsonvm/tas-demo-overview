@@ -16,16 +16,18 @@
    - Auto Scaling Apps with Apps Manager    
    - Review Application logs and metrics using Apps Manager 
 
-
 ### Operator Experience 
-4. [Day 2 Operations with Tanzu Application Service ](#example2)
-   - Walk through automated patching, upgrades, and overall maintenance using Ops Manager 
+1. [Demonstrate Day 2 Operations with Tanzu Application Service ](#example2)
+   - Walk through Zero Downtime patching of Windows & Linux Operating Systems using Ops Manager 
+   - Walk through Zero Downtime upgrades and patching of platform services using Ops Manager
+
+-------
 
 <br/>
 <br/>
 
 
-### High Level Overview 
+## High Level Overview 
 
 VMware Tanzu Application Service is an opinionated, application-aware platform that provides a rich set of developer tooling and a prepaved path to production to build and deploy software quickly and securely on any compliant public cloud or on-premises vCenter Data Center.
 
